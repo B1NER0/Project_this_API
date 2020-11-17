@@ -1,0 +1,23 @@
+{
+  "name": "finalapi",
+  "version": "1.0.0",
+  "description": "\"# Project_this_API\"",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1NER0/Project_this_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1NER0/Project_this_API/issues"
+  },
+  "homepage": "https://github.com/B1NER0/Project_this_API#readme"
+}
